@@ -1,0 +1,34 @@
+.fieldset {
+    background-color: rgb(255, 248, 235);
+    padding: 2%;
+    margin: 2%;
+    width: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.submit :hover {
+    background-color: rgb(148, 242, 148);
+}
+
+.namn :hover {
+    background-color: rgb(148, 242, 148);
+}
+
+.mejl :hover {
+    background-color: rgb(148, 242, 148);
+}
+
+.ärende :hover {
+    background-color: rgb(148, 242, 148);
+}
+
+.ämne :hover {
+    background-color: rgb(148, 242, 148);
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+    margin-top: 0%;
+}
